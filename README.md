@@ -9,6 +9,7 @@ Senior full-stack developer with 9+ years of experience, having shipped 13 produ
 ### What I'm building
 
 - **[my-cv](https://github.com/christianempire/my-cv)** — The source for my live, bilingual CV. Angular 19 + SCSS, light/dark themes, print-optimized, deployed on GitHub Pages.
+- **[Longshot](https://github.com/christianempire/longshot)** — Chrome + Firefox extension (TypeScript, MV3) that builds long screenshots by scroll-and-stitch: the full page, or any scrollable element, including containers taller than the viewport. Streams frames instead of accumulating them, measures the DPR rather than trusting it, and reverts every page mutation on the way out.
 - **[PingPulse](https://github.com/christianempire/PingPulse)** — Electron + React desktop app for monitoring internet connection health in real time: latency, packet loss, self-calibrating thresholds, and an always-on-top overlay.
 - **[Prodtick](https://github.com/christianempire/Prodtick)** — Local-first Windows productivity app (Electron + React) for tracking tasks with timestamps, rich-text formatting, and a 14-day activity chart.
 
