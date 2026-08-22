@@ -8,6 +8,7 @@ Senior full-stack developer with 9+ years of experience, having shipped 13 produ
 
 ### What I'm building
 
+- **[Strata](https://github.com/christianempire/strata)** — Windows disk-usage tool that records history instead of snapshots, so it can answer what grew, when, and where. .NET 9 background scanner reading the NTFS change journal at low I/O priority, SQLite history with retention and a diff engine, and an Angular 19 UI plus localhost API hosted in the same process. Local-only, read-only, runs unelevated from the tray.
 - **[my-cv](https://github.com/christianempire/my-cv)** — The source for my live, bilingual CV. Angular 19 + SCSS, light/dark themes, print-optimized, deployed on GitHub Pages.
 - **[Longshot](https://github.com/christianempire/longshot)** — Chrome + Firefox extension (TypeScript, MV3) that builds long screenshots by scroll-and-stitch: the full page, or any scrollable element, including containers taller than the viewport. Streams frames instead of accumulating them, measures the DPR rather than trusting it, and reverts every page mutation on the way out.
 - **[PingPulse](https://github.com/christianempire/PingPulse)** — Electron + React desktop app for monitoring internet connection health in real time: latency, packet loss, self-calibrating thresholds, and an always-on-top overlay.
